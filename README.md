@@ -1,2 +1,1 @@
-# moocfetcher.github.io
-MOOC Fetcher Developers Wiki and Site
+MOOCFetcher Developers Wiki: <https://moocfetcher.github.io>
